@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keyrons-hub
+- 👋 Hi, I’m Kieran Humphreys!
 - 👀 I’m interested in music technology, web development, and data science.
 - 🌱 I’m currently learning embedded computing and software development.
 - 💞️ I’m looking to collaborate on ...
