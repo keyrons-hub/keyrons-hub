@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kieran Humphreys, a student at the University of Virginia currently studying Computer Engineering.
+- 👋 Hi, I’m Kieran Humphreys, an engineer currently working at Virginia Diodes.
 - 👀 I’m interested in music technology, web development, and data science.
 - 🌱 I’m currently learning embedded computing and software development, and researching RFID technology.
 - 💞️ I’m looking to collaborate on any and all projects that enhance the human experience and help those in need!
